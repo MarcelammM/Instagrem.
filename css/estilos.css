@@ -1,0 +1,108 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	font-family: "Roboto";
+	font-weight: 400;
+}
+
+.conteiner{
+	display: flex;
+	background: #FFFFFF;
+	padding: 70px;
+	align-items: flex-start;
+    justify-content: center; 
+}
+
+.celulares{
+	width: 600px;
+	margin-left: -30px;
+}
+
+.conta{
+	display: flex;
+	flex-direction: column;
+  	align-items: center;
+	background: white;
+	width: 650px;
+	height: 370px;
+	margin-left: 30px;
+	border: 2px solid #ebebeb;
+}
+
+.insta_logo{
+	max-height: 70px;
+	max-width: 210px;
+	height: auto;
+	width: auto;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.perfil{
+	max-height: 110px;
+	max-width: 110px;
+	height: auto;
+	width: auto;
+	margin-top: 30px;
+}
+
+.botao{
+	height: 40px;
+	width: 250px;
+	margin-top: 30px;
+	border-radius: 7px;
+	background: #88C9F5;
+	border: none;
+}
+
+.botao p{
+	font-size: 18px;
+	color: white;
+}
+
+.remove{
+	margin-top: 30px;
+	color: #6BB7EB;
+}
+
+.re{
+	text-decoration: none;
+}
+
+.conteiner2{
+	width: 650px;
+	height: 80px;
+	background: white;
+	margin-left: 30px;
+	margin-top: 55px;
+	text-align: center;
+	padding: 10px;
+	border: 2px solid #F4EEEE
+}
+
+.retin{
+	margin-top: -25px;
+}
+
+.line{
+	display: inline;
+}
+
+.invisivel{
+	margin-top: 25px;
+}
+.conteiner2 a{
+	text-decoration: none;
+	color: #88C9F5;
+}
+
+.conteiner2 p{
+	font-size: 20px;
+}
+
+.img1{
+	
+}
